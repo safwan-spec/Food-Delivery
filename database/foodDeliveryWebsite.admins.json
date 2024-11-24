@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "66f110aa6c682c98fa3a89a2"
+  },
+  "username": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$doQvAtqHJ0ECjkSxO9IlK.BjBpsqSr///C/4O.YOplwoeo10/VtzO",
+  "profile": "admin.jpg",
+  "createdAt": {
+    "$date": "2024-09-23T06:54:34.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-23T06:54:34.169Z"
+  },
+  "__v": 0
+}]

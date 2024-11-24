@@ -1,0 +1,36 @@
+Run both Client and Server file by split terminal at same time.
+
+Terminal 1(client):
+
+cd client
+npm install
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install @mui/icons-material 
+npm install index.js    
+npm i react-router-dom                                 
+npm install axios
+npm start
+
+
+Terminal 2(server):
+
+cd .. 
+cd server    
+npm install -g nodemon
+npm install express cors mongoose 
+nodemon    
+
+
+Customer page: http://localhost:3000
+
+Customer signIn and signup needed
+
+Admin Page: http://localhost:3000/admin
+
+Admin signup:
+
+name:Admin
+pass: 12345
+
+All functions are mentioned in moduledescription.txt file

@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "671b7c2f450952a00ba362f6"
+  },
+  "title": "Veg Items",
+  "picture": "1729854511820-veg.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:08:31.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:08:31.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7c52450952a00ba362fa"
+  },
+  "title": "Egg Items",
+  "picture": "1729854546103-360_F_559028021_0sk8T7ENyzfcD0R1NHeurd4LWwYYH6uN.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:09:06.107Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:09:06.107Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7c82450952a00ba362fe"
+  },
+  "title": "Chicken Items",
+  "picture": "1729854594016-dd204af8462899d453bdc4451656f569.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:09:54.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:09:54.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7cb3450952a00ba36302"
+  },
+  "title": "Beverages",
+  "picture": "1729854643920-038-soft-drink-vector-illustration_296703-759.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:10:43.928Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:10:43.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7d0d450952a00ba36306"
+  },
+  "title": "Biriyani Items",
+  "picture": "1729854733054-biryni.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:12:13.059Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:12:13.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7d78450952a00ba3630a"
+  },
+  "title": "Breads & South Indian",
+  "picture": "1729854840642-bread.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:14:00.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T08:44:19.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7dc6450952a00ba3630e"
+  },
+  "title": "Beef Items",
+  "picture": "1729854918301-dfsdf.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:15:18.307Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:15:18.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7df8450952a00ba36312"
+  },
+  "title": "Fish Items",
+  "picture": "1729854968533-download.png",
+  "createdAt": {
+    "$date": "2024-10-25T11:16:08.537Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:16:08.537Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b7e42450952a00ba36316"
+  },
+  "title": "Snacks",
+  "picture": "1729855042708-pngtree-special-snacks-image_1454609.jpg",
+  "createdAt": {
+    "$date": "2024-10-25T11:17:22.713Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:17:22.713Z"
+  },
+  "__v": 0
+}]

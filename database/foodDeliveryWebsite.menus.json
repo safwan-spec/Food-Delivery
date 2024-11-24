@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "671b7fc3450952a00ba36322"
+  },
+  "title": "Veg Kurma",
+  "picture": "1729855427858-vegkurma.jpg",
+  "description": "Veg Kurma is a creamy, spiced South Indian curry made with mixed vegetables in a coconut-based sauce, typically enjoyed with breads like chapati or rice. With flavors from spices like cumin, coriander, and turmeric, it offers a comforting and aromatic taste.",
+  "category": {
+    "$oid": "671b7c2f450952a00ba362f6"
+  },
+  "price": "76",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-25T11:23:47.887Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:23:47.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671b805c450952a00ba3632f"
+  },
+  "title": "Kadala Curry",
+  "picture": "1729855580184-kadala-curry-without-coconut.jpg",
+  "description": "Kadala curry is a traditional South Indian dish made with black chickpeas (kala chana) simmered in a spiced coconut gravy, commonly served with puttu, appam, or rice. Known for its rich, earthy flavor, the curry combines roasted spices, coconut, and a hint of tamarind for a slightly tangy and deeply satisfying taste.",
+  "category": {
+    "$oid": "671b7c2f450952a00ba362f6"
+  },
+  "price": "35",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-25T11:26:20.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-25T11:26:20.194Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672340ba8accfdecb7c58f20"
+  },
+  "title": "Fish Biriyani",
+  "picture": "1730822968307-fss.jpg",
+  "description": "Fish Biryani is a flavorful rice dish combining tender fish pieces marinated in spices with fragrant basmati rice, cooked with layers of herbs, caramelized onions, and saffron. This aromatic dish is a popular seafood variation of traditional biryani, known for its rich, spicy taste and subtle hints of coastal flavors.",
+  "category": {
+    "$oid": "671b7d0d450952a00ba36306"
+  },
+  "price": "239",
+  "foodType": "Non Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:32:58.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:09:28.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672340ef8accfdecb7c58f2d"
+  },
+  "title": "Egg Biriyani",
+  "picture": "1730822977865-egg-biryani-3-1.jpg",
+  "description": "Egg Biryani is a fragrant and flavorful rice dish made with boiled eggs, aromatic basmati rice, and a blend of spices, often garnished with caramelized onions and fresh herbs. This rich and satisfying one-pot meal is popular across South Asia, delivering a perfect balance of spice and savory flavors.",
+  "category": {
+    "$oid": "671b7d0d450952a00ba36306"
+  },
+  "price": "120",
+  "foodType": "Non Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:33:51.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:09:37.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723412d8accfdecb7c58f3a"
+  },
+  "title": "Vegetable Biriyani",
+  "picture": "1730823619878-images (1).jpeg",
+  "description": "Vegetable Biryani is a vibrant and aromatic rice dish made with basmati rice, mixed vegetables, and a medley of spices, layered together and cooked to perfection. This wholesome and flavorful meal is a popular vegetarian option, often garnished with fried onions, fresh herbs, and served with raita or salad.",
+  "category": {
+    "$oid": "671b7d0d450952a00ba36306"
+  },
+  "price": "98",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:34:53.318Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:20:19.889Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672341648accfdecb7c58f47"
+  },
+  "title": "Veg Meals",
+  "picture": "1730823693445-oan1trgc99r.webp",
+  "description": "Veg Meals is a traditional, wholesome platter consisting of various vegetarian dishes served with rice or flatbreads. Typically featuring dal, vegetable curries, sambar, rasam, pickles, papad, and dessert, it offers a balanced combination of flavors, textures, and nutrients, popular in Indian cuisine.",
+  "category": {
+    "$oid": "671b7d0d450952a00ba36306"
+  },
+  "price": "67",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:35:48.305Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:21:33.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672341a88accfdecb7c58f5e"
+  },
+  "title": "Chilli Gobi",
+  "picture": "1730823845777-gobi-manchurian-cauliflower-manchurian.jpg",
+  "description": "Chilli Gobi is a spicy and crispy Indo-Chinese dish made from deep-fried cauliflower florets tossed in a tangy, flavorful sauce with chili, garlic, and bell peppers. This popular appetizer is garnished with spring onions and served hot, offering a delightful mix of heat and crunch.",
+  "category": {
+    "$oid": "671b7c2f450952a00ba362f6"
+  },
+  "price": "102",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:36:56.816Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:24:05.789Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672341d78accfdecb7c58f6b"
+  },
+  "title": "Tomato Fry",
+  "picture": "1730823855514-images (2).jpeg",
+  "description": "Tomato Fry is a simple yet flavorful dish made by sautéing ripe tomatoes with onions, green chilies, and aromatic spices until soft and slightly caramelized. This quick, tangy side pairs well with rice or flatbreads, adding a burst of savory and spicy flavors.",
+  "category": {
+    "$oid": "671b7c2f450952a00ba362f6"
+  },
+  "price": "53",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:37:43.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:24:15.521Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723420c8accfdecb7c58f78"
+  },
+  "title": "Egg Curry",
+  "picture": "1730823863383-egg-curry-recipe.jpg",
+  "description": "Egg Curry is a hearty dish made with boiled eggs simmered in a rich, spiced gravy of tomatoes, onions, and aromatic spices. Popular across India, this comforting curry pairs well with rice or flatbreads, offering a satisfying blend of flavors and protein.",
+  "category": {
+    "$oid": "671b7c52450952a00ba362fa"
+  },
+  "price": "38",
+  "foodType": "Non Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:38:36.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:24:23.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672342398accfdecb7c58f85"
+  },
+  "title": "Egg Roast",
+  "picture": "1730823873592-Kerala_egg_roast_curry_masala_Recipe.jpg",
+  "description": "Egg Roast is a flavorful dish featuring hard-boiled eggs cooked in a thick, spiced onion-tomato masala until coated and slightly caramelized. Known for its rich, aromatic flavors, it’s often served with appam, paratha, or rice, making it a popular choice in South Indian cuisine.",
+  "category": {
+    "$oid": "671b7c52450952a00ba362fa"
+  },
+  "price": "42",
+  "foodType": "Non Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:39:21.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:24:33.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723426b8accfdecb7c58f92"
+  },
+  "title": "Boiled Egg",
+  "picture": "1730823883654-images (3).jpeg",
+  "description": "Boiled eggs are a simple and nutritious food made by cooking eggs in their shells in boiling water until the whites and yolks are firm. They can be enjoyed on their own, sliced in salads, or used in various dishes, providing a rich source of protein and essential nutrients.",
+  "category": {
+    "$oid": "671b7c52450952a00ba362fa"
+  },
+  "price": "12",
+  "foodType": "Non Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:40:11.156Z"
+  },
+  "updatedAt": {
+    "$date": "2024-11-05T16:24:43.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6723434e8accfdecb7c58f9f"
+  },
+  "title": "Puttu",
+  "picture": "1730364238610-istockphoto-838927480-1024x1024.jpg",
+  "description": "Puttu is a traditional South Indian dish made from steamed cylinders of rice flour and grated coconut, often served with side dishes like banana, jaggery, or curry. This light and fluffy breakfast item is popular in Kerala, celebrated for its unique texture and mild flavor.",
+  "category": {
+    "$oid": "671b7d78450952a00ba3630a"
+  },
+  "price": "33",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:43:58.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T08:43:58.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "672343b78accfdecb7c58fc3"
+  },
+  "title": "Appam",
+  "picture": "1730364343028-istockphoto-838927480-1024x1024.jpg",
+  "description": "Appam is a soft and fluffy rice pancake with a lacy, crisp edge, traditionally made from fermented rice flour and coconut milk. Commonly enjoyed in South Indian cuisine, particularly in Kerala, it is often served with sweet or savory accompaniments like coconut milk, vegetable stew, or curry.",
+  "category": {
+    "$oid": "671b7d78450952a00ba3630a"
+  },
+  "price": "11",
+  "foodType": "Veg",
+  "servings": "1",
+  "status": "Available",
+  "createdAt": {
+    "$date": "2024-10-31T08:45:43.038Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T08:45:43.038Z"
+  },
+  "__v": 0
+}]

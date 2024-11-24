@@ -1,0 +1,29 @@
+1.Admin
+2.Customer
+
+
+Admin:
+
+    Login
+    Manage Customers
+    Manage Categories
+    Manage Menus
+    Manage Orders
+    Manage Payments
+    View Feedbacks
+    Logout
+
+Customer:
+
+    Register
+    Login
+    View Menus
+    search for Menu
+    filter by category
+    add Menu to cart
+    manage cart
+    check out
+    make Payment
+    view order history
+    give Feedback
+    logout
